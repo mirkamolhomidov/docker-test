@@ -18,7 +18,7 @@ B) Docker image yaratish uchun ko'rsatmalar fayli
 
 B) Docker image'larni saqlash va ulashish uchun bulutli xizmat
 
-## 6. Docker konteynerini ishga tushirish uchun qaysi buyruq ishlatiladi?
+## 6. Docker konteynerini ishga tushirish uchun qaysi buyruq ishlatiladi
 
 B) docker run
 

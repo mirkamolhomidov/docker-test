@@ -12,7 +12,7 @@ A) Docker image ning ishlaydigan nusxasi
 
 ## 4. Dockerfile nima?
 
-B) Docker image yaratish uchun ko'rsatmalar fayl
+B) Docker image yaratish uchun ko'rsatmalar fayli
 
 ## 5. Docker Hub nima?
 
